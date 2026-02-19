@@ -1,5 +1,5 @@
 # 💫 About Me:
-i currently studying data science<br>i am good in python and sql  
+I am currently studying data science<br>i am good in python and sql  
 
 
 ## 🌐 Socials:
